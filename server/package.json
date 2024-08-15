@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "@elastic/elasticsearch": "^8.14.0"
+  }
+}
